@@ -42,16 +42,21 @@ Ensure the following dependencies are installed in your project:
 - `clsx`
 - `tailwind-merge`
 
-You can install them via npm or yarn:
+You can install them via npm, yarn, or bun:
 
+### Using npm
 ```bash
 npm install clsx tailwind-merge
 ```
 
-or
-
+### Using yarn
 ```bash
 yarn add clsx tailwind-merge
+```
+
+### Using bun
+```bash
+bun add clsx tailwind-merge
 ```
 
 ## License
